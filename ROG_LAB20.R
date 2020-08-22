@@ -79,26 +79,3 @@ g1 + scale_color_grey()
 g2 + scale_fill_grey()
 
 
-########### PARTE 2  ###############
-
-
-# Escala continua (variable continua)
-# haciendo grafica de puntos por poblacion
-
-
-
-# Ver g3
-
-# cambiando el color de los puntos segúnn gradiente
-
-
-# haciendo boxplot en poblacion
-
-
-
-# Ver g4
-
-
-g4# cambiando color de barras histograma
-
-
